@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+Pillow
+PyPDF2
+easyocr
+numpy
+torch
+openai-whisper
